@@ -12,7 +12,7 @@ HTTP is a stateless protocol that runs on top of TCP which is a connection-orien
 With this protocol, you can send messages to a server and receive event-driven responses without having to poll the server for a reply.
 ## __Project Description:__
 
-This is a project where I've established connection between the client and the server with the external HTTP.
+This is a project where I've established connection between the client and the server.
 
 ## __Code Example:__
 In server:
