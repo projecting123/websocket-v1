@@ -12,7 +12,8 @@ HTTP is a stateless protocol that runs on top of TCP which is a connection-orien
 With this protocol, you can send messages to a server and receive event-driven responses without having to poll the server for a reply.
 ## __Project Description:__
 
-This is a project where I've established connection between the client and the server.
+This is a project where I've established connection between the client and the server. Check the v2 project of websocket
+by clicking [here](https://github.com/projecting123/websocket-v2)
 
 ## __Code Example:__
 In server:
